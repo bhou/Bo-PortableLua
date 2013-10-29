@@ -1,4 +1,4 @@
-Bo-POLLUXPLUS
+Bo-PortableLua
 =============
 
-Bo-POLLUXPLUS is a lightweight portable overplatform application system
+Bo-PortableLua is a lightweight portable overplatform application system
